@@ -7,3 +7,5 @@ This is personal project which data get from kaggle
 
 ## Cookie Cats 
 * A/B test
+
+## Credit card Fraud Detection
